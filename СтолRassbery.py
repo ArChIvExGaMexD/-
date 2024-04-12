@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import telebot
 import time
-token="6704811470:AAFmlHtEnA3nWS4dfZ2GepCcJE3nfd0xEZs"
+token="#сюда токен"
 GPIO.setmode(GPIO.BCM) 
 GPIO.setup(12, GPIO.IN)
 try:
